@@ -7,8 +7,8 @@ This project designs and implements a simple fingerprint authentication system t
 
 ## Methodology 
 Coding Environment: Python Jupyter Notebook using Google Colab
-*Python libraries and packages used:
-*Collections: Counter
+-Python libraries and packages used:  
+-Collections: Counter  
 -CV2
 -Math 
 -Matplotlib
