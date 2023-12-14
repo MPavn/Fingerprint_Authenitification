@@ -9,24 +9,24 @@ This project designs and implements a simple fingerprint authentication system t
 Coding Environment: Python Jupyter Notebook using Google Colab
 -Python libraries and packages used:  
 -Collections: Counter  
--CV2
--Math 
--Matplotlib
--Numpy
--Pandas
--PIL: Image
--Seaborn
--Scipy.ndimage: binary_dilation, binary_erosion
--Skimage: morphology
--Sklearn.metrics: confusion matrix
+-CV2  
+-Math  
+-Matplotlib  
+-Numpy  
+-Pandas  
+-PIL: Image  
+-Seaborn  
+-Scipy.ndimage: binary_dilation, binary_erosion  
+-Skimage: morphology  
+-Sklearn.metrics: confusion matrix  
 
 ## Evaluation
--Confusion Matrix
--Accuracy
--Precision 
--Recall 
--F1 Score
--Specificity
+-Confusion Matrix  
+-Accuracy  
+-Precision  
+-Recall   
+-F1 Score  
+-Specificity  
 
 
 Our project developed a fingerprint authentication system that enrolled and verified users. The evaluation metrics calculated for our system revealed poor performance in both run time and accuracy. Potential improvements were identified, and future iterations of this project implementing these improvements would likely greatly improve the shortcomings of the current system.
