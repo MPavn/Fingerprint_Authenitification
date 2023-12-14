@@ -1,5 +1,5 @@
 # Fingerprint_Authenitification
-Maya Pavan and Emily Garceau
+by Maya Pavan and Emily Garceau
 
 ## Overview
 This project designs and implements a simple fingerprint authentication system that can enroll users by processing their fingerprint images and verify their identity using the enrolled data
